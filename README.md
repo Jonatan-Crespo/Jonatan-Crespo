@@ -1,5 +1,4 @@
-# Olá pessoa, seja bem vinda!
-# Me chamo Jonatan Crespo mas pode me chamar de Crespo!👋 
+# Olá pessoa, seja bem vinda! Me chamo Jonatan Crespo mas pode me chamar de Crespo!👋 
 
 <!--
 **Jonatan-Crespo/Jonatan-Crespo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
