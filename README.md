@@ -1,4 +1,4 @@
-### Olá pessoa, seja bem vinda! 
+### Olá pessoa, seja bem vinda ao meu github! 
 # Me chamo *Jonatan Crespo* mas pode me chamar de *Crespo*!👋 
 
 Sou um Product Designer apoixonado por tecnologias, então por sempre estar junto com time de Dev fui apaixonando pelo desenvolvimento. Hoje estou aprendendo a codar com diversas tecnologias. Atualmente estou aprendendo todos os apectos de desenvolvimento desde Back-end à Front-end, até me aventuro um pouco em dados (_pois minha atuação como product me faz olhar e analizar dados de usuários_). <br> **Um desenvolvedor em desenvolvimento, mas um profissional voltato a négocio, produto, e usuários.**
